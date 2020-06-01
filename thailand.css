@@ -1,0 +1,13 @@
+/*style the country outlines and regions */
+path {
+    stroke-width: "20px"; 
+    stroke: black; 
+}
+
+button {
+    background-color:#f2f2f2;
+    text-align:center;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
